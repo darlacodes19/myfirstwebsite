@@ -81,7 +81,7 @@ h2 {
 #div2 {
     border: 2px solid black;
     background-color: #cb997e;
-    padding:15px;
+    padding:30px;
 }
 #div2:hover {
     background-color:white;
@@ -90,7 +90,7 @@ h2 {
 #maindiv3 {
     border: 2px solid black;
     background-color: #ffe8d6;
-    padding:15px;
+    padding:30px;
    
 }
 
@@ -101,7 +101,7 @@ h2 {
 #div4 {
     border: 2px solid black;
     background-color:#ddbea9;
-    padding:15px;
+    padding:30px;
 }
 
 #div4:hover {
