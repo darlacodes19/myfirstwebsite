@@ -4,6 +4,7 @@
 body {
     background-color: white;
 }
+/* navigation style */ 
 
 #mainnav {
     background-color: white;
@@ -24,26 +25,7 @@ body {
 #mainnav nav a {
     text-decoration: none;
 }
-#mypicture {
-    border: 20px solid white;
-    width: 20vw;
-    min-width: fit-content;   
-    position: relative;
-    left:39%;
-    right:39%;   
-    margin-bottom: 40px;
-}
-
-p{
-    font-size: 20px;
-    color:darkblue;
-}
-span {
-    font-style: italic;
-}
-h2 {
-    text-transform: capitalize;
-}
+/* introduction */ 
 
 #introduction {
     color: rgb(187, 118, 130); 
@@ -55,23 +37,18 @@ h2 {
 #introduction:hover {
     color: black;
     text-decoration: underline;
-    font-size: 30px;
-   
-}
-.favfood{
-  display: inline;
-  width:40vw;   
+    font-size: 30px;  
 }
 
-.picsaboutme {
-  display: inline;
-  width:40vw;
-
-
+p{
+    font-size: 20px;
+    color:darkblue;
+}
+span {
+    font-style: italic;
+}
 
 /* divs style */ 
-
-}
 #div1{
     border: 2px solid black;
     background-color: #b7b7a4;
@@ -129,6 +106,28 @@ a {
 
 .list {
     font-size: 20px;
+}
+
+/* images */ 
+
+.favfood{
+    display: inline;
+    width:40vw;   
+  }
+  
+.picsaboutme {
+    display: inline;
+    width:40vw;
+  }
+  
+#mypicture {
+    border: 20px solid white;
+    width: 20vw;
+    min-width: fit-content;   
+    position: relative;
+    left:39%;
+    right:39%;   
+    margin-bottom: 40px;
 }
 
 #picturedr {
